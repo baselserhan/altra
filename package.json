@@ -1,6 +1,6 @@
 {
-  "homepage": "https://baselserhan.github.io/altra",
   "name": "altra",
+  "homepage": "https://baselserhan.github.io/altra",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
