@@ -1,0 +1,20 @@
+.LinkStyle {
+    display: block;
+    color: #222;
+    text-decoration: none;
+    padding: 10px 15px;
+    font-weight: bold;
+    transition: .5s;
+}
+
+.LinkStyle:hover {
+    color: #eb5424;
+    transition: .5s;
+}
+
+.Logo {
+    display: block;
+    color: #222;
+    text-decoration: none;
+    margin: -10px;
+}
